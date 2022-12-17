@@ -26,7 +26,6 @@ Console.Close('Java.app');
 
 [Front-End](https://github.com/Chals20/ProyectoFinalFrontEnd)
 
-[Trello](https://trello.com/invite/b/edkbDSeG/ATTI41ef1470a40d02e8dafea2f574071b1e102C9012/reservacomedor)
 
 ## Techs
 Docker
