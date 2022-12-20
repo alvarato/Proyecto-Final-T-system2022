@@ -16,7 +16,7 @@ Alvaro Bernabey
 Oscar Vilamitjana
 Carlos Sanchez
 
-Console.Close('Java.app');
+Console.Close('Menjador.app');
 ```
 ## Links a los Repositorios de Git-Hubs
 
